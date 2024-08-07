@@ -1,7 +1,7 @@
 # Sky-Palette
 Color-Based Object Tracking and Virtual Drawing Application
 <br>
-Overview
+<h3>Overview</h3>
 <br>
 This project is an interactive drawing application that tracks a colored object in real-time using a webcam. The tracked object acts as a virtual pen, allowing users to draw on a digital canvas. The application supports dynamic color selection, canvas management, and customizable tracking settings.
 <br>
