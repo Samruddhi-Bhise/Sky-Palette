@@ -7,8 +7,8 @@ This project is an interactive drawing application that tracks a colored object 
 <br>
 <h3>Features</h3>
 <br>
-Real-Time Object Tracking: Tracks a colored object using OpenCV and draws on a virtual canvas.<br>
+<ul>Real-Time Object Tracking: Tracks a colored object using OpenCV and draws on a virtual canvas.<br>
 Dynamic Color Selection: Switch between multiple colors for drawing.<br>
 Canvas Management: Clear the canvas with a single button click.<br>
 Customizable Settings: Adjust HSV color thresholds through a user interface with trackbars.<br>
-Persistent Settings: Save and load color detection settings using JSON.<br>
+Persistent Settings: Save and load color detection settings using JSON.<br></ul>
