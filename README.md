@@ -5,7 +5,7 @@ Color-Based Object Tracking and Virtual Drawing Application
 <br>
 This project is an interactive drawing application that tracks a colored object in real-time using a webcam. The tracked object acts as a virtual pen, allowing users to draw on a digital canvas. The application supports dynamic color selection, canvas management, and customizable tracking settings.
 <br>
-Features
+<h3>Features</h3>
 <br>
 Real-Time Object Tracking: Tracks a colored object using OpenCV and draws on a virtual canvas.<br>
 Dynamic Color Selection: Switch between multiple colors for drawing.<br>
